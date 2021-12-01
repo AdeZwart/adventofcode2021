@@ -2,7 +2,7 @@
 
 namespace AzW.AdventOfCode.Year2021
 {
-    class Day1 : Day.NewLineSplitParsed<int>
+    class Day01 : Day.NewLineSplitParsed<int>
     {        
         public override object ExecutePart1()
         {            
