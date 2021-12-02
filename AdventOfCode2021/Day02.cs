@@ -16,20 +16,21 @@ namespace AzW.AdventOfCode2021.Year2021
 
             foreach(var input in Input)
             {
-                var movement = input.Split(" ");
-
-                switch (movement.First())
+                var movement = input.Split(" ").First();
+                var unit = int.Parse(input.Split(" ").Last());
+                
+                switch (movement)
                 {
                     case "forward":
-                        horizontal += int.Parse(movement.Last());
+                        horizontal += unit;
                         break;
 
                     case "down":
-                        depth += int.Parse(movement.Last());
+                        depth += unit;
                         break;
 
                     case "up":
-                        depth -= int.Parse(movement.Last());
+                        depth -= unit;
                         break; 
                 }
             }
@@ -45,21 +46,22 @@ namespace AzW.AdventOfCode2021.Year2021
 
             foreach (var input in Input)
             {
-                var movement = input.Split(" ");
+                var movement = input.Split(" ").First();
+                var unit = int.Parse(input.Split(" ").Last());
 
-                switch (movement.First())
+                switch (movement)
                 {
                     case "forward":
-                        horizontal += int.Parse(movement.Last());
-                        depth += (int.Parse(movement.Last()) * aim);
+                        horizontal += unit;
+                        depth += (unit * aim);
                         break;
 
                     case "down":
-                        aim += int.Parse(movement.Last());
+                        aim += unit;
                         break;
 
                     case "up":
-                        aim -= int.Parse(movement.Last());
+                        aim -= unit;
                         break;
                 }
             }
