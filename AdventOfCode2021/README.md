@@ -10,4 +10,5 @@ My solutions to the [Avent of Code](https://adventofcode.com/) 2021
 - Day02 :star: :star:  
 - Day03 :star: :star:
 - Day04 :star: :star:
-- Day05 
+- Day05 :star: :star:
+- Day06 
