@@ -10,7 +10,7 @@ namespace AzW.AdventOfCode2021.Year2021
         {
             // Sample input
             // int iterationDays = 18;
-            //Input = new int[] { 3, 4, 3, 1, 2 };
+            // Input = new int[] { 3, 4, 3, 1, 2 };
 
             int iterationDays = 80;
 
@@ -35,7 +35,7 @@ namespace AzW.AdventOfCode2021.Year2021
 
                 fishes.AddRange(newFishes);
 
-                //Console.WriteLine($"{i} Day(s): {string.Join(", ", fishes.Select(f => f.ToString()))}");
+                // Console.WriteLine($"{i} Day(s): {string.Join(", ", fishes.Select(f => f.ToString()))}");
             }
 
             var fishCount = fishes.Count();
@@ -47,7 +47,7 @@ namespace AzW.AdventOfCode2021.Year2021
         {
             // Sample input
             // int iterationDays = 256;
-            //Input = new int[] { 3, 4, 3, 1, 2 };
+            // Input = new int[] { 3, 4, 3, 1, 2 };
 
             int iterationDays = 256;
 
