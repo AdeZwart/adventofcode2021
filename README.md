@@ -15,4 +15,5 @@ It might not be the prettiest or high performance code, I just want to solve the
 - Day05 :star: :star:
 - Day06 :star: :star:
 - Day07 :star: :star:
-- Day08
+- Day08 :star: :star:
+- Day09
