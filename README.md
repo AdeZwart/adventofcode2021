@@ -16,4 +16,6 @@ It might not be the prettiest or high performance code, I just want to solve the
 - Day06 :star: :star:
 - Day07 :star: :star:
 - Day08 :star: :star:
-- Day09
+- Day09 :star: :star:
+- Day10 :star: :star:
+- Day11
