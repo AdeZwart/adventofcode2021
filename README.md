@@ -18,4 +18,18 @@ It might not be the prettiest or high performance code, I just want to solve the
 - Day08 :star: :star:
 - Day09 :star: :star:
 - Day10 :star: :star:
-- Day11
+- Day11 :star:
+- Day12
+- Day13 :star: :star:
+- Day14
+- Day15
+- Day16
+- Day17
+- Day18
+- Day19
+- Day20
+- Day21
+- Day22
+- Day23
+- Day24
+- Day25
