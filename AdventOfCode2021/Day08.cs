@@ -94,12 +94,4 @@ namespace AzW.AdventOfCode2021.Year2021
             return outputValues.Sum();
         }
     }
-
-    public static class StringExtensions
-    {
-        public static string Sort(this string input)
-        {
-            return string.Concat(input.OrderBy(c => c));
-        }
-    }
 }
