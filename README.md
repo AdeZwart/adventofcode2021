@@ -21,10 +21,10 @@ It might not be the prettiest or high performance code, I just want to solve the
 - Day11 :star:
 - Day12
 - Day13 :star: :star:
-- Day14
+- Day14 :star: :star:
 - Day15
 - Day16
-- Day17
+- Day17 :star: :star:
 - Day18
 - Day19
 - Day20
